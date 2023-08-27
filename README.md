@@ -1,10 +1,6 @@
-# python-gpu-data-science-project
+# xgboost-is-all-you-need
 
-Repository containing scaffolding for a Python 3-based data science project with GPU acceleration. 
-
-## Creating a new project from this template
-
-Simply follow the [instructions](https://help.github.com/en/articles/creating-a-repository-from-a-template) to create a new project repository from this template.
+Repository of materials for an advanced course on XGBoost.
 
 ## Project organization
 
