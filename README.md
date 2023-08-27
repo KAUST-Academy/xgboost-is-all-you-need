@@ -1,3 +1,5 @@
+[![Binder](https://classhub.kaust.edu.sa/xgboost/service/binder/badge_logo.svg)](https://classhub.kaust.edu.sa/xgboost/service/binder/v2/gh/KAUST-Academy/xgboost-is-all-you-need/HEAD)
+
 # xgboost-is-all-you-need
 
 Repository of materials for an advanced course on XGBoost.
