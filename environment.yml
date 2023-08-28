@@ -29,5 +29,6 @@ dependencies:
   - python
   - python-language-server
   - pyviz_comms
+  - scikit-learn
   - wandb
   - xgboost
